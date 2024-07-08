@@ -1,2 +1,3 @@
-# telegram-bot-simple-starter
-Telegram bot starter with TypeScript
+# Telegram bot starter
+
+Written in TypeScript.
